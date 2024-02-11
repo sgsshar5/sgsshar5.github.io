@@ -26,7 +26,7 @@ const greeting = {
     "I thoroughly enjoy finding the hidden stories within big data sets (trillions of rows). I thrive in the discovery process, am driven to create proprietary analytical outputs, and love communicating the results in a story that everyone can understand.",
   resumeLink:
     "https://drive.google.com/file/d/1IGC0zJ7HR0h7CG4sma5y6oEoByhTcP2b/view?usp=share_link",
-  portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
+  portfolio_repository: "https://github.com/sgsshar5/sgsshar5.github.io",
   githubProfile: "https://github.com/sgsshar5",
 };
 
