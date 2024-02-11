@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "Masters Portfolio",
+      "createdAt": "2022-09-27T16:26:54Z",
+      "url": "https://github.com/sgsshar5/Masters-Porrtfolio.git",
+      "description": "🔥 I have created AI player Connect 4 board game using Min Max & Min Max with alpha beta pruning algorithms.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG_vYHA",
+      "name": "Reinforcement Learning",
+      "createdAt": "2021-02-13T20:41:33Z",
+      "url": "https://github.com/sgsshar5/Reinforcement-Learning.git",
+      "description": "📦 Deep reinforcement Learning model on a 4 Layered Neural Network and tested using OpenAI gym library.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG0_8uQ",
+      "name": "Social Network Analysis",
+      "createdAt": "2022-05-15T14:50:20Z",
+      "url": "https://github.com/sgsshar5/Networkx.git",
+      "description": "🌀 Social Network Analysis using Pandas Data frame and Netwokx in Python.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOGcPKSQ",
+      "name": "Deep Learning",
+      "createdAt": "2021-11-26T17:56:07Z",
+      "url": "https://github.com/sgsshar5/Deep-Learning.git",
+      "description": "⚙️ I used the openAI gym library to import a simple game called “Lunar Lander” to train our deep neural network to play it successfully.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzMjcyMjI5Njk=",
+      "name": "Principle Component Analysis",
+      "createdAt": "2022-07-06T06:36:41Z",
+      "url": "https://github.com/sgsshar5/PCA.git",
+      "description": "🚀  Performed multiple analysis operations using pandas data frame and performed principal componentanalysis on the open and close dataset of 500 companies for a span of 5 years.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
+      "name": "Multi Class Perceptron",
+      "createdAt": "2021-11-01T08:31:51Z",
+      "url": "https://github.com/sgsshar5/Multiclass-Perceptron.git",
+      "description": "🚀 Binary Class Perceptron with multiple usecase objectives with using only NumPy and Pandas in Python on Iris Dataset.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    }
+  ]
+}
